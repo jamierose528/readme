@@ -1,6 +1,8 @@
-# read me stuff
+# a
+  ## License
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   ## Description
-  creating a read me generator for a grade
+  b
   ## Table of Contents (Optional)
   If your README is long, add a table of contents to make it easy for users to find what they need.
   - [Installation](#installation)
@@ -12,14 +14,12 @@
   ## Installation
   undefined
   ## Usage
-  fill in each prompt one at a time to fill up space
+  c
   ## Contributers
-  phil
-  ## License
-  yeah
+  d
   ## Tests
-  console log for sure
+  e
   ## Question
-  jamierose528 
+  Github User: f 
   <br>
-  jamie.rose.528@gmail.com
+  Email: g

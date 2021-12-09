@@ -25,8 +25,9 @@ const questions = [
     message: "Other contributers on the projects?",
   },
   {
-    type: "input",
+    type: "list",
     name: "license",
+    choices: ["Apache", "GNU", "IBM", "MIT", "none"],
     message: "What are the licenses used on the app?",
   },
   {
@@ -47,10 +48,7 @@ const questions = [
 ];
 
 // TODO: Create a function to write README file
-// function writeToFile(fileName, data) {}
-// fs.writeFile(fileName.data, (err) => {
-//   err ? console.log(err) : console.log("Success!");
-// });
+
 // TODO: Create a function to initialize app
 // function init() {}
 inquirer.prompt(questions).then((data) => {
