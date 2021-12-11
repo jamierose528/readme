@@ -40,3 +40,7 @@ Tested through console logging.
 Github User: jamierose528
 <br>
 Email: jamierosecreates@gmail.com
+
+## How to Use Me
+
+https://watch.screencastify.com/v/FoVaZcXea3bSimiKwnvW
